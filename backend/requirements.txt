@@ -1,0 +1,15 @@
+flask
+flask-cors
+joblib
+scikit-learn
+pandas
+numpy
+requests
+
+# Optional — install for full audio analysis support:
+# librosa
+# soundfile
+# openai-whisper
+# vaderSentiment
+# spacy
+# transformers
